@@ -1,0 +1,4 @@
+total height = 212
+total width = 462
+browser calculated height = 172
+browser calculated width = 422 
